@@ -1,46 +1,30 @@
 
 # ChatPP Frontend
 
-A basic frontend for the ChatPP application.
+Minimal frontend for the ChatPP application.
 
-## 🚀 Quick Start
+## Setup
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Omama574/chatpp-fe.git
-   ```
-
-2. Navigate into the project directory:
-
-   ```bash
-   cd chatpp-fe
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm start
-   ```
-
-## 🧪 Testing
-
-Run tests using:
+1. Clone the repo:
 
 ```bash
-npm test
+git clone https://github.com/Omama574/chatpp-fe.git
+cd chatpp-fe
 ```
 
-## 📄 License
+2. Install dependencies:
 
-This project is licensed under the MIT License.
+```bash
+npm install
+```
 
----
+3. Run the development server:
 
-Feel free to customize this README further based on any additional details you'd like to include.
+```bash
+npm run dev
+```
+
+## License
+
+MIT
+
